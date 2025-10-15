@@ -1,0 +1,40 @@
+{
+    "robots": [
+        {
+            "name": "UR3",
+            "type": "robotic arm",
+            "manufacturer": "Universal Robots",
+            "xacro-generated": false,
+            "urdf": [
+                "urdf/universalUR3.urdf"
+            ],
+            "variant": null,
+            "source-link": "https://se.mathworks.com/matlabcentral/fileexchange/98714-robotics-system-toolbox-robot-library-data",
+            "id": 45
+        },
+        {
+            "name": "UR5",
+            "type": "robotic arm",
+            "manufacturer": "Universal Robots",
+            "xacro-generated": false,
+            "urdf": [
+                "urdf/universalUR5.urdf"
+            ],
+            "variant": null,
+            "source-link": "https://se.mathworks.com/matlabcentral/fileexchange/98714-robotics-system-toolbox-robot-library-data",
+            "id": 46
+        },
+        {
+            "name": "UR10",
+            "type": "robotic arm",
+            "manufacturer": "Universal Robots",
+            "xacro-generated": false,
+            "urdf": [
+                "urdf/universalUR10.urdf"
+            ],
+            "variant": null,
+            "source-link": "https://se.mathworks.com/matlabcentral/fileexchange/98714-robotics-system-toolbox-robot-library-data",
+            "id": 47
+        }
+    ]
+}
